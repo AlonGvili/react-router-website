@@ -42,7 +42,7 @@
     "iso-639-1": "^2.1.13",
     "lodash.merge": "^4.6.2",
     "lru-cache": "7.13",
-    "octokit": "^1.7.1",
+    "octokit": "^3.1.2",
     "parse-link-header": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
